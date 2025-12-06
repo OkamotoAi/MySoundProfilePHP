@@ -4,7 +4,7 @@
 Spotifyの楽曲リストから自分の好みを把握する
 
 ```
-$ conposer install
+$ composer install
 ```
 
 # 実装済み機能

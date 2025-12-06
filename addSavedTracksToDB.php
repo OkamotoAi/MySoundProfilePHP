@@ -37,6 +37,6 @@ foreach ($tracks->items as $track) {
   $res = db_query($sql, $conn);
 }
 
-header('Location: main.php');
+header('Location: index.php');
 die();
 ?>

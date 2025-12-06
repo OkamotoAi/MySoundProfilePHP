@@ -11,5 +11,5 @@ define("ENCDB", "UTF-8");
 define("DBSV", "localhost");
 define("DBNAME", "spotify");
 define("DBUSER", "root");
-define("DBPASS", "root");
+define("DBPASS", "password");
 ?>
